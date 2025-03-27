@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Shaikh
 
-<!--
-**ShaikhBorhanUddin/ShaikhBorhanUddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Deep Learning and AI enthusiast! Currently working on object detection and face detection projects using TensorFlow and YOLO.
 
-Here are some ideas to get you started:
+## 🚀 Skills:
+- Python, TensorFlow, PyTorch
+- Object Detection, Face Recognition
+- Google Colab, Kaggle API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects:
+- 🔹 [Car License Plate Detection](https://github.com/ShaikhBorhanUddin/car-detection)
+- 🔹 [Face Detection with YOLO](https://github.com/ShaikhBorhanUddin/face-detection)
+
+## 📊 GitHub Stats:
+![Borhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaikhBorhanUddin&show_icons=true&theme=radical)
+
+## 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/your-twitter)
