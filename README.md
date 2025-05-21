@@ -1,3 +1,21 @@
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+<div style="flex: 1;">
+  
+### 👋 Hi, I'm Shaikh Borhan Uddin
+
+I'm a data science enthusiast passionate about machine learning, computer vision, and building scalable AI solutions for real-world problems.  
+[📧 Email Me](mailto:shaikhborhanuddin@gmail.com) | [🔗 LinkedIn](https://linkedin.com/in/shaikh-borhan-uddin-905566253/)
+
+</div>
+
+<div style="margin-left: 20px;">
+  <img src="https://raw.githubusercontent.com/username/repo/main/profile.png" width="150" style="border-radius: 50%;" />
+</div>
+
+</div>
+
+
 # 👋 Hi there, I'm Shaikh Borhan Uddin
 
 🎯 Passionate about building intelligent systems that bridge the gap between software and the real world. My work spans natural language processing, object detection, image processing, and deep learning.
