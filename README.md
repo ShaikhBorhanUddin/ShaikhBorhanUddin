@@ -27,6 +27,11 @@ Big Data & Data Science Technology
 Significant Coursework: `Machine Learning on Cloud`, `Big Data Analytics`, `Applied Data Science`, `Cyber Security`, `Digital Leadership`, `Research Methodology`, `Science & Technology Project`  
 Result: Distinction (75%)
 
+### BASIS Institute of Technology & Management (BITM)  
+**Certified Training Course**  
+Data Science and Machine Learning using Python  
+Significant Topics: `Python Basics`, `OOP`, `SQL`, `NumPy`, `Pandas`, `Statistics for Data Science`, `Matplotlib`, `Seaborn`, `Classical Machine Learning`, `Scikit-Learn`
+
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
