@@ -19,6 +19,15 @@ Passionate and results-driven data science professional with a strong foundation
 - Databases: MySQL
 - Other: Git, Jupyter Notebooks, FiftyOne, SPSS
 
+# Academics
+
+### Northumbria University  
+**Master of Science**                                                                                         
+Big Data & Data Science Technology  
+Significant Coursework: `Machine Learning on Cloud`, `Big Data Analytics`, `Applied Data Science`, `Cyber Security`, `Digital Leadership`, `Research Methodology`, `Science & Technology Project`  
+Result: Distinction (75%)
+
+
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
 <div style="flex: 1;">
