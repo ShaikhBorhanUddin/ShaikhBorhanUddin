@@ -1,3 +1,24 @@
+# Profile
+
+### Shaikh Borhan Uddin
+- E-mail: shaikhborhanuddin@gmail.com
+- LinkedIn: linkedin.com/in/shaikh-borhan-uddin-905566253/
+- Kaggle: www.kaggle.com/shaikhborhanuddin
+- GitHub: https://github.com/ShaikhBorhanUddin
+
+# Profile Summary
+
+Passionate and results-driven data science professional with a strong foundation in theoretical mathematics and advanced expertise in machine learning, big data analytics, and cloud-based AI solutions. Completed MSc in Big Data & Data Science Technology (Distinction) with hands-on experience in developing scalable data science solutions for healthcare, security, retail, and logistics industries. Highly skilled in Python, SQL, TensorFlow, and visualization tools, with strong problem-solving, analytical, and collaborative abilities.
+
+# Technical Skills
+
+- Programming: Python, FORTRAN, SQL, Mathematica
+- Machine Learning: Scikit-learn, TensorFlow, Keras, Transfer Learning, CNNs
+- Data Visualization: Matplotlib, Seaborn, Tableau
+- Tools & Platforms: OpenCV, LabelImg, GradCAM, YOLO, Google Colab
+- Databases: MySQL
+- Other: Git, Jupyter Notebooks, FiftyOne, SPSS
+
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
 <div style="flex: 1;">
