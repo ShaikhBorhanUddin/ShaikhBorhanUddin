@@ -33,19 +33,19 @@ Data Science and Machine Learning using Python
 Significant Topics: `Python Basics`, `OOP`, `SQL`, `NumPy`, `Pandas`, `Statistics for Data Science`, `Matplotlib`, `Seaborn`, `Classical Machine Learning`, `Scikit-Learn`
 
 ### South Thames College  
-Post Graduate Certificate  
+**Post Graduate Certificate**  
 Strategic Management & Leadership  
-Significant Coursework: Change Management, Financial Principles, Corporate Culture  
+Significant Coursework: `Change Management`, `Financial Principles`, `Corporate Culture`  
 
 ### Jagannath University  
-Master of Science  
+**Master of Science**  
 Theoretical Mathematics  
-Significant Coursework: Operations Research, Number Theory, Numerical Analysis  
+Significant Coursework: `Operations Research`, `Number Theory`, `Numerical Analysis`  
 
 ### National University  
-Bachelor of Science  
+**Bachelor of Science**  
 Theoretical Mathematics  
-Significant Coursework: Linear Algebra, Fortran Programming, Statistical Methods, Applied Statistics
+Significant Coursework: `Linear Algebra`, `Fortran Programming`, `Statistical Methods`, `Applied Statistics`
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
