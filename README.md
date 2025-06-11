@@ -2,7 +2,7 @@
 
 ### Shaikh Borhan Uddin
 - E-mail: shaikhborhanuddin@gmail.com
-- LinkedIn: linkedin.com/in/shaikh-borhan-uddin-905566253/
+- LinkedIn: [https://www.linkedin.com/in/shaikh-borhan-uddin-905566253/](https://www.linkedin.com/in/shaikh-borhan-uddin-905566253/)
 - Kaggle: www.kaggle.com/shaikhborhanuddin
 - GitHub: https://github.com/ShaikhBorhanUddin
 
