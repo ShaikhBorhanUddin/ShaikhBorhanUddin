@@ -1,5 +1,4 @@
 # Profile
-![Dashboard](https://github.com/ShaikhBorhanUddin/ShaikhBorhanUddin/blob/main/background.png?raw=true)  
 
 ### Shaikh Borhan Uddin
 - E-mail: shaikhborhanuddin@gmail.com
