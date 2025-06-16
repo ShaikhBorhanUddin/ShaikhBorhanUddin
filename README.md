@@ -55,7 +55,7 @@ Project Link: https://github.com/ShaikhBorhanUddin/Facial-Emotion-Recognition-Pr
 
 ### Car License Plate Detection  
 Application / Industry: Automobile, Logistics, Border Control & Immigration, Insurance, Traffic management, Smart Parking, Public Transport                                    
-Models / Tools: VGG16, MobileNetV2, R-CNN, Faster R-CNN, YOLOv5, YOLOv8, OpenCV, Matplotlib, FiftyOne, LabelImg
+Models / Tools: VGG16, MobileNetV2, R-CNN, Faster R-CNN, YOLOv5, YOLOv8, OpenCV, Matplotlib, FiftyOne, LabelImg  
 Project Link: https://github.com/ShaikhBorhanUddin/Car-Licence-Plate-Detection-Project
 
 ### Pneumonia Detection from X-ray Images  
