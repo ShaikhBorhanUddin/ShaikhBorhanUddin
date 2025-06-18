@@ -51,7 +51,7 @@ Significant Coursework: `Linear Algebra`, `Fortran Programming`, `Statistical Me
 ### Facial Emotion Recognition  
 Application / Industry: Customer Service, Security, Marketing, Telemedicine, Healthcare  
 Models / Tools: ConvNeXtBase, VGG19, EfficientNetB0, EfficientNetB2, EfficientNetB3, EfficientNetB4, EfficientNetB5, ResNet50V2, ResNet101V2, ResNet151V2, GradCAM, GradCAM++  
-Project Link: https://github.com/ShaikhBorhanUddin/Facial-Emotion-Recognition-Project  
+Project Link: https://github.com/ShaikhBorhanUddin/Facial-Emotion-Recognition  
 
 ### Car License Plate Detection  
 Application / Industry: Automobile, Logistics, Border Control & Immigration, Insurance, Traffic management, Smart Parking, Public Transport                                    
