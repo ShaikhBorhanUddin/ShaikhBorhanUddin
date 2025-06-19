@@ -71,7 +71,7 @@ Project Link: https://github.com/ShaikhBorhanUddin/Pizza-Topping-Classification
 ### Vehicle Insurance Claim Fraud Detection  
 Application / Industry: Insurance, Automobile, Law Enforcement  
 Models / Tools: Logistic Regression, KNN, Decision Tree, Random Forest, AdaBoost, SVM, XGBoost, Seaborn  
-Project Link: https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection-Project  
+Project Link: https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud-Detection  
 
 ### Credit Card Transaction Fraud Detection  
 Application / Industry: Insurance, Banking, E-commerce, Tele-communication  
