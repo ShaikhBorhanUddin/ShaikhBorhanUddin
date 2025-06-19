@@ -81,7 +81,7 @@ Project Link: https://github.com/ShaikhBorhanUddin/Credit-Card-Transaction-Fraud
 ### Spam Detection  
 Application / Industry: Banking, E-commerce, Retail, Social Media Platforms, Tele-communication  
 Models / Tools: MultinomialNB, BernoulliNB, Logistic Regression, Random Forest, XGBoost, SVC, MLPClassifier, AdaBoost, CNN, LIME  
-Project Link: https://github.com/ShaikhBorhanUddin/Email-SMS-Spam-Detection-Project  
+Project Link: https://github.com/ShaikhBorhanUddin/Spam-Detection-With-Machine-Learning  
 
 ### Customer Sentiment Analysis in Streatham Area Restaurants
 Application / Industry: Restaurant Management, Customer Experience, Market Research  
