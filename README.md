@@ -76,7 +76,7 @@ Project Link: https://github.com/ShaikhBorhanUddin/Vehicle-Insurance-Claim-Fraud
 ### Credit Card Transaction Fraud Detection  
 Application / Industry: Insurance, Banking, E-commerce, Tele-communication  
 Models / Tools: Logistic Regression, KNN, SGD, Decision Tree, LightGBM, Random Forest, AdaBoost, SVM, XGBoost, CNN, Seaborn  
-Project Link: https://github.com/ShaikhBorhanUddin/Credit-Card-Transaction-Fraud-Detection-Project  
+Project Link: https://github.com/ShaikhBorhanUddin/Credit-Card-Transaction-Fraud-Detection  
 
 ### Spam Detection  
 Application / Industry: Banking, E-commerce, Retail, Social Media Platforms, Tele-communication  
