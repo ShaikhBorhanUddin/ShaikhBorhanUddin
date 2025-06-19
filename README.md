@@ -61,7 +61,7 @@ Project Link: https://github.com/ShaikhBorhanUddin/Pneumonia-Detection-from-CXR-
 ### Fashion Image Classification  
 Application / Industry: E-commerce, Marketing, Retail  
 Models / Tools: ResNet101, DenseNet121, VGG19, MobileNetV2, ScoreCAM, GradCAM, GradCAM++  
-Project Link: https://github.com/ShaikhBorhanUddin/Fashion-Image-Classification-Project  
+Project Link: https://github.com/ShaikhBorhanUddin/Zalando-Fashion-Clothing-Classification  
 
 ### Pizza Topping Classification  
 Application / Industry: Retail, Food Industry, Restaurants, Food Delivery  
