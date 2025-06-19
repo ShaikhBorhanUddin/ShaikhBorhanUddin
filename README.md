@@ -85,7 +85,7 @@ Project Link: https://github.com/ShaikhBorhanUddin/Email-SMS-Spam-Detection-Proj
 
 ### Customer Sentiment Analysis in Streatham Area Restaurants
 Application / Industry: Restaurant Management, Customer Experience, Market Research  
-Models / Tools: NLP, TextBlob, Python, Aspect-Based Sentiment Analysis, Matplotlib  
+Models / Tools: NLP, TextBlob, DistilBERT, VADER, Aspect-Based Sentiment Analysis, Matplotlib  
 Project Link: https://github.com/ShaikhBorhanUddin/Customer-Sentiment-Analysis-in-Streatham-Area-Restaurants
 
 ### Brazilian E-Commerce Data Analysis
