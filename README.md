@@ -98,6 +98,31 @@ Application / Industry: Banking, E-commerce, Retail, Social Media Platforms, Tel
 Models / Tools: MultinomialNB, BernoulliNB, Logistic Regression, Random Forest, XGBoost, SVC, MLPClassifier, AdaBoost, CNN, LIME  
 Project Link: https://github.com/ShaikhBorhanUddin/Email-SMS-Spam-Detection-Project  
 
+### Customer Sentiment Analysis in Streatham Area Restaurants
+Application / Industry: Restaurant Management, Customer Experience, Market Research  
+Models / Tools: NLP, TextBlob, Python, Aspect-Based Sentiment Analysis, Matplotlib  
+Project Link: https://github.com/ShaikhBorhanUddin/Customer-Sentiment-Analysis-in-Streatham-Area-Restaurants
+
+### Brazilian E-Commerce Data Analysis
+Application / Industry: E-Commerce, Business Intelligence, Supply Chain, Customer Analytics  
+Models / Tools: PostgreSQL, SQL, Python (Pandas, Matplotlib), Tableau  
+Project Link: https://github.com/ShaikhBorhanUddin/Brazilian_E_Commerce_Data_Analysis
+
+### Unicorn Company Analysis
+Application / Industry: Startup Analysis, Venture Capital, Market Research  
+Models / Tools: Python (Pandas, Seaborn, Matplotlib), Data Visualization  
+Project Link: https://github.com/ShaikhBorhanUddin/Unicorn_Company_Analysis
+
+### Zomato Data Analysis
+Application / Industry: Food Delivery, Restaurant Analytics, Business Intelligence  
+Models / Tools: PostgreSQL, SQL, Python, Tableau, ERD Modeling  
+Project Link: https://github.com/ShaikhBorhanUddin/Zomato-Data-Analysis
+
+### Inventory Management
+Application / Industry: Supply Chain, Warehouse Management, Retail Analytics  
+Models / Tools: PostgreSQL, SQL, Excel, Tableau  
+Project Link: https://github.com/ShaikhBorhanUddin/Inventory_Management
+
 
 
 
