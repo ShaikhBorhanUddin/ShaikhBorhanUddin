@@ -56,7 +56,7 @@ Project Link: https://github.com/ShaikhBorhanUddin/Facial-Emotion-Recognition
 ### Pneumonia Detection from X-ray Images  
 Application / Industry: Healthcare, Medical Imaging  
 Models / Tools: ConvNeXtBase, DenseNet121, ResNet50V2, ResNet101V2, VGG16, GradCAM, GradCAM++, ScoreCAM  
-Project Link: https://github.com/ShaikhBorhanUddin/Pneumonia-Detection-Project
+https://github.com/ShaikhBorhanUddin/Pneumonia-Detection-from-CXR-using-Transfer-Learning-Models  
 
 ### Fashion Image Classification  
 Application / Industry: E-commerce, Marketing, Retail  
