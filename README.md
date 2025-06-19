@@ -66,7 +66,7 @@ Project Link: https://github.com/ShaikhBorhanUddin/Zalando-Fashion-Clothing-Clas
 ### Pizza Topping Classification  
 Application / Industry: Retail, Food Industry, Restaurants, Food Delivery  
 Models / Tools: ResNet101V2, ConvNeXtBase, EfficientNetB4, VGG19, GradCAM, GradCAM++  
-Project Link: https://github.com/ShaikhBorhanUddin/Pizza-Topping-Classification-Project  
+Project Link: https://github.com/ShaikhBorhanUddin/Pizza-Topping-Classification  
 
 ### Vehicle Insurance Claim Fraud Detection  
 Application / Industry: Insurance, Automobile, Law Enforcement  
