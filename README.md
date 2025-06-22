@@ -12,12 +12,12 @@ Passionate and results-driven data science professional with a strong foundation
 
 # Technical Skills
 
-- **Programming & Query Languages**: Python, SQL
-- **Machine Learning & Deep Learning**: Scikit-learn, TensorFlow, Keras, Transfer Learning, Convolutional Neural Networks (CNNs), YOLO
-- **Natural Language Processing**: TextBlob, NLTK, Vader, BERT, Aspect-Based Sentiment Analysis
-- Data Visualization: Matplotlib, Seaborn, Tableau, GradCAM, Lime, SHAP
-- Tools & Platforms: Google Colab, Jupyter Notebook, GitHub, Kaggle
-- Databases: PostgreSQL, MySQL
+- **Programming & Query Languages:** Python, SQL
+- **Machine Learning & Deep Learning:** Scikit-learn, TensorFlow, Keras, Transfer Learning, Convolutional Neural Networks (CNNs), YOLO
+- **Natural Language Processing:** TextBlob, NLTK, Vader, BERT, Aspect-Based Sentiment Analysis
+- **Data Visualization:** Matplotlib, Seaborn, Tableau, GradCAM, Lime, SHAP
+- **Tools & Platforms:** Google Colab, Jupyter Notebook, GitHub, Kaggle
+- **Databases:** PostgreSQL, MySQL
 
 # Academics
 
