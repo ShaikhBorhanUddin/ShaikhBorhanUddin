@@ -10,14 +10,21 @@
 
 Passionate and results-driven data science professional with a strong foundation in theoretical mathematics and advanced expertise in machine learning, big data analytics, and cloud-based AI solutions. Completed MSc in Big Data & Data Science Technology (Distinction) with hands-on experience in developing scalable data science solutions for healthcare, security, retail, and logistics industries. Highly skilled in Python, SQL, TensorFlow, and visualization tools, with strong problem-solving, analytical, and collaborative abilities.
 
-# Technical Skills
+# Technical Skills 
 
-- **Programming & Query Languages:** Python, SQL
-- **Machine Learning & Deep Learning:** Scikit-learn, TensorFlow, Keras, Transfer Learning, Convolutional Neural Networks (CNNs), YOLO
-- **Natural Language Processing:** TextBlob, NLTK, Vader, BERT, Aspect-Based Sentiment Analysis
-- **Data Visualization:** Matplotlib, Seaborn, Tableau, GradCAM, Lime, SHAP
-- **Tools & Platforms:** Google Colab, Jupyter Notebook, GitHub, Kaggle
-- **Databases:** PostgreSQL, MySQL
+- **Programming & Query Languages:** Python, SQL 
+  
+- **Machine Learning & AI:** scikit-learn (Regression, Classification, Clustering), TensorFlow, Keras, Transfer Learning, Deep Learning (CNNs, RNN/LSTM) 
+
+- **Natural Language Processing (NLP):** NLTK, TextBlob, VADER, TF-IDF, Word2Vec, BERT, Aspect-Based Sentiment Analysis 
+
+- **Data Visualisation & Explainable AI:** Matplotlib, Seaborn, Plotly, Tableau, SHAP, LIME, Grad-CAM, Score-CAM 
+
+- **Databases & Data Manipulation:** PostgreSQL, MySQL, Pandas, NumPy 
+
+- **Tools & Platforms:** Jupyter Notebook, Google Colab, VS Code, GitHub, Kaggle 
+
+- **Deployment & Web:** Streamlit, Gradio, Flask, Hugging Face, HTML, CSS, Markdown
 
 # Academics
 
