@@ -13,17 +13,11 @@ Passionate and results-driven data science professional with a strong foundation
 # Technical Skills 
 
 - **Programming & Query Languages:** Python, SQL 
-  
 - **Machine Learning & AI:** scikit-learn (Regression, Classification, Clustering), TensorFlow, Keras, Transfer Learning, Deep Learning (CNNs, RNN/LSTM) 
-
 - **Natural Language Processing (NLP):** NLTK, TextBlob, VADER, TF-IDF, Word2Vec, BERT, Aspect-Based Sentiment Analysis 
-
 - **Data Visualisation & Explainable AI:** Matplotlib, Seaborn, Plotly, Tableau, SHAP, LIME, Grad-CAM, Score-CAM 
-
 - **Databases & Data Manipulation:** PostgreSQL, MySQL, Pandas, NumPy 
-
 - **Tools & Platforms:** Jupyter Notebook, Google Colab, VS Code, GitHub, Kaggle 
-
 - **Deployment & Web:** Streamlit, Gradio, Flask, Hugging Face, HTML, CSS, Markdown
 
 # Academics
